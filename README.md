@@ -1,6 +1,6 @@
 # Philip Li
 
-C++ · Database Systems · Vector Search · Performance Engineering
+C++ · Vector Database · Vector Search · Performance Engineering
 
 ## Research Notes
 
